@@ -1,5 +1,4 @@
-
-const API_URL = "http://192.168.43.12:3000/api/products";
+const API_URL = "https://deva-store.onrender.com/api/products";
 
 let allProducts = [];
 let cart = readStore("devaStoreCart", []);
